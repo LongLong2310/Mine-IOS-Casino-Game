@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  Mine Game
+
+  Created by Phạm Long on 02/09/2023.
+  
+*/
+"Game Settings" = "Game Settings";
+"Dark Mode" = "Dark Mode";
+"Sound" = "Sound";
+"Music" = "Music";
+"Language:" = "Language:";
+
+"Easy Description" = "In Easy mode, users can choose from 0 to 25 mines and have higher winning chances.";
+"Medium Description" = "Medium mode offers a balanced challenge with a moderate number of mines (from 10 to 25 mines).";
+"Hard Description" = "Hard mode is for experienced players, with more mines and higher risks (from 20 - 25 mines).";
+
+"Continue" = "Continue";
+"Play Game" = "Play Game";
+"How To Play" = "How To Play";
+
+"How To Play" = "How To Play";
+"Welcome to the Mine Game!" = "Welcome to the Mine Game!";
+"Objective:" = "Objective:";
+"Your goal is to find all the diamonds hidden on the grid while avoiding hitting any mines." = "Your goal is to find all the diamonds hidden on the grid while avoiding hitting any mines.";
+"Game Rules:" = "Game Rules:";
+"1. Enter your bet amount and the number of mines you want to play with." = "1. Enter your bet amount and the number of mines you want to play with.";
+"2. Tap on the cells to reveal their contents." = "2. Tap on the cells to reveal their contents.";
+"3. If you reveal a diamond, you'll earn a profit based on your bet amount and the profit rate." = "3. If you reveal a diamond, you'll earn a profit based on your bet amount and the profit rate.";
+"4. If you reveal a mine, the game is over, and you'll lose your bet amount." = "4. If you reveal a mine, the game is over, and you'll lose your bet amount.";
+"5. The profit rate increases after each successful diamond reveal." = "5. The profit rate increases after each successful diamond reveal.";
+"6. If you reveal all diamonds without hitting a mine, you win the game and earn the profit." = "6. If you reveal all diamonds without hitting a mine, you win the game and earn the profit.";
+"Tips:" = "Tips:";
+"1. Start with a smaller bet amount and gradually increase it as you get comfortable with the game." = "1. Start with a smaller bet amount and gradually increase it as you get comfortable with the game.";
+"2. Be strategic in your choices to maximize your profits and minimize the risks." = "2. Be strategic in your choices to maximize your profits and minimize the risks.";
+
+"Leaderboard" = "Leaderboard";
+"Achievement Badges" = "Achievement Badges";
+"Gameplay Statistics" = "Gameplay Statistics";
+
+"betAmountLabel" = "Bet Amount";
+"minBetMessage" = "Min bet is: %d";
+"minesLabel" = "Mines";
+"minMinesMessage" = "Min mines is: %d";
+"totalProfitLabel" = "Total Profit:";
+"profitRateLabel" = "Profit Rate:";
+"cashoutButton" = "Cashout";
+"betButton" = "Bet";
+"gameOverMessage" = "Game Over";
+"youWinMessage" = "You Win";
+"youEarnMessage" = "You earn %.2f";
+"betMinChangedMessage" = "Bet min has changed";
+"continueButton" = "Continue";
+"earnedNewAchievementMessage" = "You earned new achievement";
+

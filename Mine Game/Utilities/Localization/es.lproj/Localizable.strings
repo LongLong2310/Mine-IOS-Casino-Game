@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  Mine Game
+
+  Created by Phạm Long on 02/09/2023.
+  
+*/
+"Game Settings" = "Configuración del juego";
+"Dark Mode" = "Modo oscuro";
+"Sound" = "Sonido";
+"Music" = "Música";
+"Language:" = "Idioma:";
+
+"Easy Description" = "En el modo Fácil, los jugadores pueden elegir entre 0 y 25 minas y tienen más posibilidades de ganar.";
+"Medium Description" = "El modo Medio ofrece un desafío equilibrado con una cantidad moderada de minas (de 10 a 25 minas).";
+"Hard Description" = "El modo Difícil es para jugadores experimentados, con más minas y riesgos más altos (de 20 a 25 minas).";
+
+"Game Settings" = "Configuración del Juego";
+"Dark Mode" = "Modo Oscuro";
+"Sound" = "Sonido";
+"Music" = "Música";
+"Language:" = "Idioma:";
+
+"Continue" = "Continuar";
+"Play Game" = "Jugar";
+"How To Play" = "Cómo Jugar";
+
+"How To Play" = "Cómo Jugar";
+"Welcome to the Mine Game!" = "¡Bienvenido al Juego de Minas!";
+"Objective:" = "Objetivo:";
+"Your goal is to find all the diamonds hidden on the grid while avoiding hitting any mines." = "Tu objetivo es encontrar todos los diamantes ocultos en la cuadrícula sin golpear ninguna mina.";
+"Game Rules:" = "Reglas del Juego:";
+"1. Enter your bet amount and the number of mines you want to play with." = "1. Ingresa la cantidad de tu apuesta y el número de minas con las que deseas jugar.";
+"2. Tap on the cells to reveal their contents." = "2. Toca las celdas para revelar su contenido.";
+"3. If you reveal a diamond, you'll earn a profit based on your bet amount and the profit rate." = "3. Si revelas un diamante, ganarás un beneficio basado en la cantidad de tu apuesta y la tasa de beneficio.";
+"4. If you reveal a mine, the game is over, and you'll lose your bet amount." = "4. Si revelas una mina, el juego termina y perderás la cantidad de tu apuesta.";
+"5. The profit rate increases after each successful diamond reveal." = "5. La tasa de beneficio aumenta después de cada revelación exitosa de un diamante.";
+"6. If you reveal all diamonds without hitting a mine, you win the game and earn the profit." = "6. Si revelas todos los diamantes sin golpear una mina, ganas el juego y obtienes el beneficio.";
+"Tips:" = "Consejos:";
+"1. Start with a smaller bet amount and gradually increase it as you get comfortable with the game." = "1. Comienza con una cantidad de apuesta más pequeña y aumenta gradualmente a medida que te sientas cómodo con el juego.";
+"2. Be strategic in your choices to maximize your profits and minimize the risks." = "2. Sé estratégico en tus elecciones para maximizar tus beneficios y minimizar los riesgos.";
+
+"Leaderboard" = "Clasificación";
+"Achievement Badges" = "Insignias de Logro";
+"Gameplay Statistics" = "Estadísticas de Juego";
+
+"betAmountLabel" = "Monto de apuesta";
+"minBetMessage" = "La apuesta mínima es: %d";
+"minesLabel" = "Minas";
+"minMinesMessage" = "El mínimo de minas es: %d";
+"totalProfitLabel" = "Ganancia total:";
+"profitRateLabel" = "Tasa de ganancia:";
+"cashoutButton" = "Cobrar";
+"betButton" = "Apostar";
+"gameOverMessage" = "Fin del juego";
+"youWinMessage" = "¡Ganaste!";
+"youEarnMessage" = "Ganaste %.2f";
+"betMinChangedMessage" = "La apuesta mínima ha cambiado";
+"continueButton" = "Continuar";
+"earnedNewAchievementMessage" = "Has obtenido un nuevo logro";

@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  Mine Game
+
+  Created by Phạm Long on 02/09/2023.
+  
+*/
+"Easy Description" = "Ở chế độ Dễ, người chơi có thể chọn từ 0 đến 25 mìn và có cơ hội thắng cao hơn.";
+"Medium Description" = "Chế độ Trung bình mang đến thách thức cân đối với số lượng mìn trung bình (từ 10 đến 25 mìn).";
+"Hard Description" = "Chế độ Khó dành cho người chơi có kinh nghiệm, với nhiều mìn hơn và rủi ro cao hơn (từ 20 - 25 mìn).";
+
+"Game Settings" = "Cài Đặt Trò Chơi";
+"Dark Mode" = "Chế Độ Tối";
+"Sound" = "Âm Thanh";
+"Music" = "Âm Nhạc";
+"Language:" = "Ngôn Ngữ:";
+
+"Continue" = "Tiếp Tục";
+"Play Game" = "Chơi Game";
+"How To Play" = "Cách Chơi";
+
+"How To Play" = "Hướng Dẫn Chơi";
+"Welcome to the Mine Game!" = "Chào mừng bạn đến với trò chơi Mìn!";
+"Objective:" = "Mục Tiêu:";
+"Your goal is to find all the diamonds hidden on the grid while avoiding hitting any mines." = "Mục tiêu của bạn là tìm tất cả các viên kim cương ẩn trong lưới mà không va vào bất kỳ mìn nào.";
+"Game Rules:" = "Quy tắc trò chơi:";
+"1. Enter your bet amount and the number of mines you want to play with." = "1. Nhập số tiền cược và số lượng mìn bạn muốn chơi.";
+"2. Tap on the cells to reveal their contents." = "2. Nhấn vào các ô để hiển thị nội dung bên trong.";
+"3. If you reveal a diamond, you'll earn a profit based on your bet amount and the profit rate." = "3. Nếu bạn khám phá một viên kim cương, bạn sẽ kiếm được lợi nhuận dựa trên số tiền cược và tỷ lệ lợi nhuận.";
+"4. If you reveal a mine, the game is over, and you'll lose your bet amount." = "4. Nếu bạn khám phá một viên mìn, trò chơi kết thúc và bạn sẽ mất số tiền cược của bạn.";
+"5. The profit rate increases after each successful diamond reveal." = "5. Tỷ lệ lợi nhuận tăng sau mỗi lần khám phá kim cương thành công.";
+"6. If you reveal all diamonds without hitting a mine, you win the game and earn the profit." = "6. Nếu bạn khám phá tất cả các viên kim cương mà không va vào mìn, bạn sẽ thắng cuộc và kiếm được lợi nhuận.";
+"Tips:" = "Mẹo:";
+"1. Start with a smaller bet amount and gradually increase it as you get comfortable with the game." = "1. Bắt đầu với số tiền cược nhỏ và từ từ tăng lên khi bạn cảm thấy thoải mái với trò chơi.";
+"2. Be strategic in your choices to maximize your profits and minimize the risks." = "2. Hãy chiến lược trong lựa chọn của bạn để tối đa hóa lợi nhuận và giảm thiểu các rủi ro.";
+
+"Leaderboard" = "Bảng xếp hạng";
+"Achievement Badges" = "Huy hiệu";
+"Gameplay Statistics" = "Thống kê trò chơi";
+
+"betAmountLabel" = "Số tiền cược";
+"minBetMessage" = "Cược tối thiểu là: %d";
+"minesLabel" = "Mìn";
+"minMinesMessage" = "Số mìn tối thiểu là: %d";
+"totalProfitLabel" = "Tổng lợi nhuận:";
+"profitRateLabel" = "Tỷ lệ lợi nhuận:";
+"cashoutButton" = "Rút tiền";
+"betButton" = "Cược";
+"gameOverMessage" = "Kết thúc trò chơi";
+"youWinMessage" = "Bạn thắng!";
+"youEarnMessage" = "Bạn kiếm được %.2f";
+"betMinChangedMessage" = "Cược tối thiểu đã thay đổi";
+"continueButton" = "Tiếp tục";
+"earnedNewAchievementMessage" = "Bạn đã đạt được thành tích mới";
+
